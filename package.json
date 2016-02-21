@@ -42,21 +42,9 @@
     "nodeunit": "^0.9.1"
   },
   "keywords": [
-    "gruntplugin",
-    "grunt",
-    "excel",
-    "xlsx",
-    "translate",
-    "translation",
-    "locale",
-    "language",
-    "multilanguage",
-    "vocabulary"
+    "gruntplugin"
   ],
   "peerDependencies": {
-    "grunt": "~0.4.5"
-  },
-  "keywords": [
-    "gruntplugin"
-  ]
+    "grunt": ">=0.4.0"
+  }
 }
